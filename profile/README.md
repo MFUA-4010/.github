@@ -28,7 +28,7 @@ Two projects under development:
 | Anisterov Daniil   | QA Engineer        |
 | Mironchuk Dmitry   | TA Engineer        |
 | Antonov Alexey     | Manager            |
-| Sukhov Nickolay    | Manager            |
+| Sukhov Nickolai    | Manager            |
 | Shcherbakov Georgy | Tech Writer        |
 | ...                |                    |
 |                    |                    |
