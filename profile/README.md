@@ -9,11 +9,9 @@ At the moment you can see our last works [here](https://mfua-4010.github.io/publ
 ## Our Products
 
 Two projects under development:
-- RunDoList - Custom event randomizer application
-(https://github.com/MFUA-4010/Run-Do-List)
-- AutoLeader (Autoschool) web resource 
-(https://github.com/MFUA-4010/Auto-Leader)
-
+- [RunDoList](https://github.com/MFUA-4010/Run-Do-List) - Custom event randomizer application
+- [Recipe-Service](https://github.com/MFUA-4010/Recipe-Service) - Service for storing your recipes
+- [AutoLeader](https://github.com/MFUA-4010/Auto-Leader) - Autoschool web resource **_(Discontinued)_**
 
 ---
 ## Our Team
@@ -30,6 +28,3 @@ Two projects under development:
 | Antonov Alexey     | Manager            |
 | Sukhov Nickolai    | Manager            |
 | Shcherbakov Georgy | Tech Writer        |
-| ...                |                    |
-|                    |                    |
-
